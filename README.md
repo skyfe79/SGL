@@ -6,4 +6,4 @@ You can preview SGL's running demo video on youtube.
 <br/><br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wUCMvPbU6Ag
 " target="_blank"><img src="http://img.youtube.com/vi/wUCMvPbU6Ag/0.jpg" 
-alt="SGL's running demo video" width="240" height="180" border="10" /></a>
+alt="SGL's running demo video" width="480" height="320" border="10" /></a>
