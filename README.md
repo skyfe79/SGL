@@ -16,7 +16,9 @@
  
 총 4번의 업그레이드를 지나오면서 위의 목표한 바를 구현하였습니다. `주의` 영상 소리 있음 
  
-<iframe width="640" height="480" src="http://www.youtube.com/embed/wUCMvPbU6Ag" frameborder="0"></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wUCMvPbU6Ag
+" target="_blank"><img src="http://img.youtube.com/vi/wUCMvPbU6Ag/0.jpg" 
+alt="SGL's running demo video" width="480" height="320" border="10" /></a>
 
 SGL의 히스토리
  
@@ -67,4 +69,6 @@ SGL supports texture mapping, md2 model rendering and others.<br/>
 <br/>
 You can preview SGL's running demo video on youtube.
 <br/><br/>
-<iframe width="640" height="480" src="http://www.youtube.com/embed/wUCMvPbU6Ag" frameborder="0"></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wUCMvPbU6Ag
+" target="_blank"><img src="http://img.youtube.com/vi/wUCMvPbU6Ag/0.jpg" 
+alt="SGL's running demo video" width="480" height="320" border="10" /></a>
